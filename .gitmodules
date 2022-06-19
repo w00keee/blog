@@ -1,0 +1,4 @@
+[submodule "w00keee/public"]
+	path = w00keee/public
+	url = https://github.com/w00keee/w00keee.github.io.git
+	branch = main
